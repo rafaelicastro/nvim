@@ -1,0 +1,7 @@
+{
+    "codeLens.enable": true,
+    "java.referencesCodeLens.enabled": true,
+    "clangd.arguments": [
+        "--fallback-style=\"{BasedOnStyle: LLVM, IndentWidth: 4}\""
+    ]
+}
